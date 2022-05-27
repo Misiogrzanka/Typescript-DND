@@ -1,4 +1,4 @@
-_Possible updates_
+_Possible updates_<br>
 Optimize CSS<br>
 Clean code of console.logs
 
