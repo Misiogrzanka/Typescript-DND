@@ -1,5 +1,5 @@
 _Possible updates_
-Optimize CSS
+Optimize CSS<br>
 Clean code of console.logs
 
 A very simple app using basics of JavaScript OOP and Typescript, to achieve a classic DnD effect over a form.
